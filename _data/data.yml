@@ -40,13 +40,14 @@ career-profile:
 
 experiences:
     - role: Security Engineer
-      time: 2020.07 - Present
+      time: 07.2020 - Present
       company: Kakaopay, Pangyo
       details: |
-          - experience with security solutions such as IDS, WAF, SIEM in On-Prem and Public Cloud (AWS) environments
-          - Implementation of cyber threat intelligence platform using MISP(Malware Information Sharing Platform)
-    - role: Security Analyzer
-      time: 2018.04 - 2020.05
+          - Experience with security systems (such as IDS, WAF, SIEM) in On-Prem, Public Cloud (AWS)
+          - Implementation of CTI platform using MISP
+          - Implementation of FIM(File Integrity Monitoring) systems for certification of PCI-DSS using Osquery
+    - role: Security Analyst
+      time: 04.2018 - 05.2020
       company: WINS, Pangyo
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -54,7 +55,7 @@ experiences:
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
+          - Bullet pointa
           - Bullet point
 
 projects:

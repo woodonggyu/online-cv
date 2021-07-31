@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Donggyu Woo
@@ -15,7 +15,7 @@ sidebar:
     email: woodonggyu92@gmail.com
     phone:
     website: velog.io/@woodonggyu #do not add http://
-    linkedin: donggyu-woo-a41701a7
+    linkedin: donggyu-woo
     xing: 
     github: woodonggyu
     telegram:
@@ -39,22 +39,13 @@ career-profile:
       Second paragraph if required.
 
 experiences:
-    - role: Computer Security Incident Response Team
+    - role: Security Engineer
       time: 2020.07 - Present
       company: Kakaopay, Pangyo
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
+          - experience with security solutions such as IDS, WAF, SIEM in On-Prem and Public Cloud (AWS) environments
+          - Implementation of cyber threat intelligence platform using MISP(Malware Information Sharing Platform)
+    - role: Security Analyzer
       time: 2018.04 - 2020.05
       company: WINS, Pangyo
       details: |
@@ -115,27 +106,6 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

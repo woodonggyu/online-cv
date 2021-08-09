@@ -43,20 +43,17 @@ experiences:
       time: 07.2020 - Present
       company: Kakaopay, Pangyo
       details: |
-          - Experience with security systems (such as IDS, WAF, SIEM) in On-Prem, Public Cloud (AWS)
-          - Implementation of CTI platform using MISP
-          - Implementation of FIM(File Integrity Monitoring) systems for certification of PCI-DSS using Osquery
+          - Adoption and operational experience of security solutions (such as SIEM, IDS, and WAF) in On-Premise and Public Cloud (AWS)
+          - Builds and operates Threat Intelligence Platform (TIP) based on MISP(Malware Information Sharing Platform)
+          - Develops and operates API Gateway servers based on the Django Rest Framework for building XOAR platform
+          - Builds and operates an open-source FIM(File Integrity Monitoring) for requirements of PCI-DSS compilance based on Osquery
+
     - role: Security Analyst
       time: 04.2018 - 05.2020
       company: WINS, Pangyo
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet pointa
-          - Bullet point
+          - Vulnerability analysis and the development of snort-based detection rules
+          - Support for Computer Security Incident Response
 
 projects:
     title: Projects

@@ -39,16 +39,12 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - education: Bachelor of Science in Information Security
-      university: Daegu Catholic University
-      time: 03.2011 - 2018.02
-
-    - education: Master of Science in Cybersecurity
+    - degree: MSc in Cyberseucirty
       university: Korea University
-
-      - Bachelor of
-      - Master of
-
+      time: 2020 - Present
+    - degree: BSc in Information Security
+      university: Daegu Catholic University
+      time: 2011 - 2018
 
 experiences:
     - role: Security Engineer

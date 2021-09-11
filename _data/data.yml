@@ -38,6 +38,18 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 
+education:
+    - education: Bachelor of Science in Information Security
+      university: Daegu Catholic University
+      time: 03.2011 - 2018.02
+
+    - education: Master of Science in Cybersecurity
+      university: Korea University
+
+      - Bachelor of
+      - Master of
+
+
 experiences:
     - role: Security Engineer
       time: 07.2020 - Present
@@ -47,7 +59,7 @@ experiences:
           - Development of anomaly detection rule using SIEM (Splunk)
           - Develops and operates API Gateway servers based on the DRF(Django REST framework) for SOAR platform
           - Builds and operates TIP(Threat Intelligence Platform) based on MISP
-          - Builds and operation of FIM (File Integrity Monitoring) using Fleet and Osquery
+          - Builds and operates FIM (File Integrity Monitoring) system using Fleet and Osquery
           - Security event and security incident analysis and response
 
     - role: Security Analyst
@@ -86,12 +98,9 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
+awards:
+    title: Awards
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
       - title: The Art of Computer Programming
         link: "#"

@@ -41,19 +41,23 @@ career-profile:
 experiences:
     - role: Security Engineer
       time: 07.2020 - Present
-      company: Kakaopay, Pangyo
+      company: Kakaopay (Pangyo, Gyeonggi-do)
       details: |
           - Adoption and operational experience of security solutions (such as SIEM, IDS, and WAF) in On-Premise and Public Cloud (AWS)
-          - Builds and operates Threat Intelligence Platform (TIP) based on MISP(Malware Information Sharing Platform)
-          - Develops and operates API Gateway servers based on the Django Rest Framework for building XOAR platform
-          - Builds and operates an open-source FIM(File Integrity Monitoring) for requirements of PCI-DSS compilance based on Osquery
+          - Development of anomaly detection policy using SIEM (Splunk)
+          - Develops and operates API Gateway servers based on the DRF(Django REST framework) for building SOAR platform
+          - Builds and operates TIP(Threat Intelligence Platform) based on MISP
+          - Establishment and operation of FIM (File Integrity Monitoring) using Fleet and Osquery
+          - Security event and security incident analysis and response
 
     - role: Security Analyst
       time: 04.2018 - 05.2020
-      company: WINS, Pangyo
+      company: WINS (Pangyo, Gyeonggi-do)
       details: |
-          - Vulnerability analysis and the development of snort-based detection rules
-          - Support for Computer Security Incident Response
+          - Cyber threat trend collection and analysis
+          - Vulnerability/Malware/Application analysis and the development of snort-based detection rules
+          - Support for IDS/IPS, Next-Generation Firewall solutions
+          - Support for security incident response
 
 projects:
     title: Projects

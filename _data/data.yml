@@ -67,32 +67,20 @@ experiences:
           - Support for IDS/IPS, Next-Generation Firewall solutions
           - Support for security incident response
 
-projects:
-    title: Awards
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+publications:
+    title: Honors and Awards
+    papers:
+      - title: 2nd Prize, FIESTA 2020
+        authors: FSI (Financial Security Institute)
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: ,CCE(Cyber Conflict Exercise) 2020
+        authors: NIS (National Intelligence Service) / NSR (National Security Research Institute)
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: 2nd Prize, Hacking Defense Competition of The Army
+        authors: Army Headquarters
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
 
 
 

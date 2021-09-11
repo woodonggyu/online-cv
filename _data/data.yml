@@ -27,7 +27,6 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf:
 
-
 career-profile:
     title: Career Profile
     summary: |
@@ -78,11 +77,6 @@ publications:
 
       - title: 2nd Prize, Hacking Defense Competition of The Army
         authors: Army Headquarters
-
-
-
-
-
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

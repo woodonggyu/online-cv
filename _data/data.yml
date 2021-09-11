@@ -44,10 +44,10 @@ experiences:
       company: Kakaopay (Pangyo, Gyeonggi-do)
       details: |
           - Adoption and operational experience of security solutions (such as SIEM, IDS, and WAF) in On-Premise and Public Cloud (AWS)
-          - Development of anomaly detection policy using SIEM (Splunk)
-          - Develops and operates API Gateway servers based on the DRF(Django REST framework) for building SOAR platform
+          - Development of anomaly detection rule using SIEM (Splunk)
+          - Develops and operates API Gateway servers based on the DRF(Django REST framework) for SOAR platform
           - Builds and operates TIP(Threat Intelligence Platform) based on MISP
-          - Establishment and operation of FIM (File Integrity Monitoring) using Fleet and Osquery
+          - Builds and operation of FIM (File Integrity Monitoring) using Fleet and Osquery
           - Security event and security incident analysis and response
 
     - role: Security Analyst

@@ -48,7 +48,7 @@ education:
 experiences:
     - role: Security Engineer
       time: 07.2020 - Present
-      company: Kakaopay (Pangyo, Gyeonggi-do)
+      company: KakaoPay (Pangyo, Gyeonggi-do)
       details: |
           - Adoption and operational experience of security solutions (such as SIEM, IDS, and WAF) in On-Premise and Public Cloud (AWS)
           - Development of anomaly detection rule using SIEM (Splunk)
@@ -68,13 +68,13 @@ experiences:
 publications:
     title: Honors and Awards
     papers:
-      - title: 2nd Prize, FIESTA 2020
+      - title: 2nd Prized, FIESTA 2020
         authors: FSI (Financial Security Institute)
 
-      - title: CCE(Cyber Conflict Exercise) 2020
+      - title: Advance to the finals and Awarded a Media Response, CCE(Cyber Conflict Exercise) 2019
         authors: NIS (National Intelligence Service) / NSR (National Security Research Institute)
 
-      - title: 2nd Prize, Hacking Defense Competition of The Army
+      - title: 2nd Prized, Hacking Defense Competition of The Army 2018
         authors: Army Headquarters
 
 footer: >

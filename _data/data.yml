@@ -53,18 +53,17 @@ experiences:
           - Adoption and operational experience of security solutions (such as SIEM, IDS, and WAF) in On-Premise and Public Cloud (AWS)
           - Development of anomaly detection rule using SIEM (Splunk)
           - Develops and operates API Gateway servers based on the DRF(Django REST framework) for SOAR platform
-          - Builds and operates TIP(Threat Intelligence Platform) based on MISP
+          - Builds and operates TIP (Threat Intelligence Platform) based on MISP
           - Builds and operates FIM (File Integrity Monitoring) system using Fleet and Osquery
-          - Security event and security incident analysis and response
+          - Security event and Security Incident Response
 
     - role: Security Analyst
       time: 04.2018 - 05.2020
       company: WINS (Pangyo, Gyeonggi-do)
       details: |
-          - Cyber threat trend collection and analysis
-          - Vulnerability/Malware/Application analysis and the development of snort-based detection rules
+          - Vulnerability/Malware analysis and the development of snort-based detection rules
           - Support for IDS/IPS, Next-Generation Firewall solutions
-          - Support for security incident response
+          - Support for Security Incident Response
 
 publications:
     title: Honors and Awards

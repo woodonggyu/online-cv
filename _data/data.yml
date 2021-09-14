@@ -32,7 +32,7 @@ career-profile:
     summary: |
       "For tomorrow better than yesterday"
 
-      You can [download this free resume/CV template here]().
+      You can [get portpolio here](https://woodonggyu.notion.site/Donggyu-Woo-a12b2f84dc9f4d8096e5c6ea178eb524).
 
 education:
     - degree: MSc in Cybersecurity
@@ -47,20 +47,20 @@ experiences:
       time: 07.2020 - Present
       company: KakaoPay (Pangyo, Gyeonggi-do)
       details: |
-          - Adoption and operational experience of security solutions (such as SIEM, IDS, and WAF) in On-Premise and Public Cloud (AWS)
+          - Adoption and operation of security solutions (such as SIEM, IDS, and WAF) in On-Premise and Public Cloud (AWS)
           - Development of anomaly detection rule using SIEM (Splunk)
-          - Develops and operates API Gateway servers based on the DRF(Django REST framework) for SOAR platform
-          - Builds and operates TIP (Threat Intelligence Platform) based on MISP
-          - Builds and operates FIM (File Integrity Monitoring) system using Fleet and Osquery
-          - Security event and Security Incident Response
+          - Development and operation of API Gateway servers based on the DRF(Django REST framework) for SOAR platform
+          - Building and operating TIP (Threat Intelligence Platform) using MISP
+          - Building and operating FIM (File Integrity Monitoring) system using Fleet and Osquery
+          - Responsibility of security events and incident response
 
     - role: Security Analyst
       time: 04.2018 - 05.2020
       company: WINS (Pangyo, Gyeonggi-do)
       details: |
-          - Vulnerability/Malware analysis and the development of snort-based detection rules
-          - Support for IDS/IPS, Next-Generation Firewall solutions
-          - Support for Security Incident Response
+          - Development of detection rule based Snort related with vulnerability/malware analysis
+          - Operation of IDS/IPS, Next-Generation Firewall solutions
+          - Responsibility of security incident response
 
 publications:
     title: Honors and Awards

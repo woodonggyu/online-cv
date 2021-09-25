@@ -55,7 +55,7 @@ experiences:
           - Building and operating FIM (File Integrity Monitoring) system using Fleet and Osquery
           - Responsibility of security events and incident response
 
-    - role: Security Analyst
+    - role: Security Researcher
       time: 04.2018 - 05.2020
       company: WINS (Pangyo, Gyeonggi-do)
       details: |

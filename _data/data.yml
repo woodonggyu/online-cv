@@ -48,7 +48,7 @@ experiences:
       time: 07.2020 - Present
       company: KakaoPay (Pangyo, Gyeonggi-do)
       details: |
-          - Adoption and operation of security solutions (such as SIEM, IDS, and WAF) in On-Premise and Public Cloud (AWS)
+          - Adoption and operation of security solutions (such as SIEM, IDS, and WAF) in On-Premise/Public Cloud
           - Development of anomaly detection rule using SIEM (Splunk)
           - Development and operation of API Gateway servers based on the DRF(Django REST framework) for SOAR platform
           - Building and operating TIP (Threat Intelligence Platform) using MISP
@@ -59,14 +59,14 @@ experiences:
       time: 04.2018 - 05.2020
       company: WINS (Pangyo, Gyeonggi-do)
       details: |
-          - Development of detection rule based Snort related with vulnerability/malware analysis
+          - Development of Snort rule based detection and vulnerability/malware analysis
           - Operation of IDS/IPS, Next-Generation Firewall solutions
           - Responsibility of security incident response
 
 publications:
     title: Honors and Awards
     papers:
-      - title: 1nd Place, Cyber Security AI·BigData Challenge (Track B. Threat Hunting) in 2021
+      - title: 1st Place, Cyber Security AI·BigData Challenge (Track B. Threat Hunting) in 2021
         authors: MSIT(Ministry of Science and ICT) / KISA
 
       - title: 2nd Place, FIESTA in 2020

@@ -45,11 +45,17 @@ education:
 
 experiences:
     - role: Security Engineer
+      time: 03.2022 - Present
+      company: Woowa Brothers (Jam-sil, Seoul)
+      details: |
+        -
+
+    - role: Security Engineer
       time: 07.2020 - 03.2022
       company: KakaoPay (Pangyo, Gyeonggi-do)
       details: |
           - Adoption and operation of security solutions (such as SIEM, IDS, and WAF)
-          - Development of anomaly detection rule using SIEM (Splunk)
+          - Development of threat detection rule using SIEM (Splunk)
           - Development and operation of API Gateway servers based on the DRF(Django REST framework) for SOAR(Security Orchestration, Automation and Response)
           - Building and operating TIP(Threat Intelligence Platform) using MISP(Malware Information Sharing Platform)
           - Building and operating FIM(File Integrity Monitoring) system using Fleet and Osquery

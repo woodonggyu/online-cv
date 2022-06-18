@@ -48,12 +48,12 @@ experiences:
       time: 07.2020 - Present
       company: KakaoPay (Pangyo, Gyeonggi-do)
       details: |
-          - Adoption and operation of security solutions (such as SIEM, IDS, and WAF)
-          - Development of threat detection rule using SIEM (Splunk)
-          - Development and operation of API Gateway servers based on the DRF(Django REST framework) for SOAR(Security Orchestration, Automation and Response)
-          - Building and operating TIP(Threat Intelligence Platform) using MISP(Malware Information Sharing Platform)
-          - Building and operating FIM(File Integrity Monitoring) system using Fleet and Osquery
-          - Response of security incident
+          - Adoption and operation of security solutions (such as SIEM, IDS, and WAF) in On-Premise and Public Cloud (AWS)
+          - Development of anomaly detection rule using SIEM (Splunk)
+          - Development and operation of API Gateway servers based on the DRF(Django REST framework) for SOAR platform
+          - Building and operating TIP (Threat Intelligence Platform) using MISP
+          - Building and operating FIM (File Integrity Monitoring) system using Fleet and Osquery
+          - Responsibility of security events and incident response
 
     - role: Security Researcher
       time: 04.2018 - 05.2020
@@ -61,11 +61,14 @@ experiences:
       details: |
           - Development of detection rule based Snort related with vulnerability/malware analysis
           - Operation of IDS/IPS, Next-Generation Firewall solutions
-          - Response of security incident
+          - Responsibility of security incident response
 
 publications:
     title: Honors and Awards
     papers:
+      - title: 1st Place, Cyber Security AI·BigData Challenge (Track B. Threat Hunting) in 2021
+        authors: MSIT(Ministry of Science and ICT) / KISA
+
       - title: 2nd Place, FIESTA in 2020
         authors: FSI (Financial Security Institute)
 
